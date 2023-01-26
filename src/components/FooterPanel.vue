@@ -1,0 +1,5 @@
+<template>
+  <footer>
+    <p>Copyright © 2023 My Website</p>
+  </footer>
+</template>
